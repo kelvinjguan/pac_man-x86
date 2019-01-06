@@ -1,3 +1,6 @@
+;Copyright (c) 2019 kelvinjguan
+;Licensed under MIT license.
+
 INCLUDE Irvine32.inc
 
 .data
