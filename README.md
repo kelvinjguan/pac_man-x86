@@ -1,4 +1,4 @@
-# pac_man-x86
+# pac_man
 Simple pac_man game created in x86 assembly for a final project.
 
 Followed the following instructions:
